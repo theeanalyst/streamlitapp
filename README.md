@@ -2,8 +2,6 @@
 
 This is a Sales Prediction Web App built with Streamlit, a Python framework for creating interactive web applications. The app uses a pre-trained machine learning model to predict sales based on user-provided input parameters. In this README, we'll walk you through how to run the app and use it effectively.
 
-![Sales Prediction App](sales_prediction_app.png)
-
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -30,11 +28,6 @@ Before running the Sales Prediction Web App, you'll need to have the following p
 To run the Sales Prediction Web App, follow these steps:
 
 1. **Clone the Repository**: First, clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/sales-prediction-app.git
-   ```
-
 2. **Navigate to the App Directory**: Use the `cd` command to navigate to the directory where the app is located:
 
    ```bash
